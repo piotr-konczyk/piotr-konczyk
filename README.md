@@ -1,0 +1,8 @@
+## My account for school files 🏫
+
+### School subjects
+
+- PM7 (desktop apps, .NET)
+- PM8 (mobile apps, Android Studio, JAVA)
+- PM9 (web development, ASP.NET, TypeScript)
+- PM10 (Jest, JSDoc)
